@@ -1,0 +1,1 @@
+![3D models covered by extended evaluation](./CLICK_ME.png)
